@@ -1,0 +1,9 @@
+service tf_rr
+
+option version 0.8
+
+object tfObject
+  
+    function double[*] tf_inference(double[*] data_in)
+    
+end object
